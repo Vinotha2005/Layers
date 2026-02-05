@@ -1,1 +1,109 @@
+POST :https://www.linkedin.com/posts/stellagarber_we-just-shipped-a-product-that-makes-me-genuinely-activity-7412139902295011328-Glod/
+
+We just shipped a product that makes me genuinely giddy.
+
+Let me explain.
+
+Six months ago, Hoop was an AI task manager. Then Slack changed their policies overnight and a core part of our product broke. We had a choice: patch it together or start fresh.
+
+We started fresh.
+
+And I'm so glad we did.
+
+Because what we're building now feels like the thing we were always supposed to build.
+
+Hoop is now AI-powered customer support for startups.
+
+Here's why I can't stop talking about it:
+
+It lives in your inbox. Not a new tool. Not another tab. Right there in Gmail where you already work.
+
+It learns your business in minutes. Connect your inbox, and Hoop reads your past conversations to understand your products, policies, and tone. No training. No documentation. It just... gets it.
+
+It answers customers in your voice. The first time I saw Hoop draft a response that sounded exactly like something I'd write, I got chills. It wasn't generic AI-speak. It was me.
+
+It keeps you in control. Anything sensitive or complex gets flagged. You stay close to your customers without being buried in repetitive questions.
+
+We built this because we kept hearing the same thing from founders:
+
+"I'm spending 2 hours a day on support emails."
+"I can't afford to hire someone, but I'm drowning."
+"I've looked at Intercom and Zendesk...they're way too complex for what I need."
+
+Startups deserve the same quality support as enterprise companies. They just need it to be simple, fast, and affordable.
+
+That's Hoop.
+
+Within weeks of shipping, we had design partners telling us this was exactly what they'd been looking for. Founders who were losing sales because they couldn't respond fast enough. Teams of one who needed to feel like teams of ten.
+
+We've already added live chat, Stripe integration for billing questions, and connections to Zendesk and Helpscout. Every week we're shipping something new.
+
+The pivot was hard. Telling our original customers we were shutting down—that was brutal.
+
+But sometimes you have to let go of what you've built to find what you're meant to build.
+
+And if you've ever pivoted your company and landed somewhere better...I'd love to hear your story in the comments.
+
+
+
+Segmentation:
+
+1.Existing Painways (Push) - trigger FLOWS at a concepts/tasks/work 
+ We just shipped a product that makes me genuinely giddy.
+
+Let me explain.
+
+Six months ago, Hoop was an AI task manager. Then Slack changed their policies overnight and a core part of our product broke. We had a choice: patch it together or start fresh.
+
+We started fresh.
+
+
+2. Possible painways (Habits of present ) -Trigger  FLOWS at a concepts/tasks/work 
+And I'm so glad we did.
+
+Because what we're building now feels like the thing we were always supposed to build.
+
+Hoop is now AI-powered customer support for startups.
+
+Here's why I can't stop talking about it:
+
+It lives in your inbox. Not a new tool. Not another tab. Right there in Gmail where you already work.
+
+It learns your business in minutes. Connect your inbox, and Hoop reads your past conversations to understand your products, policies, and tone. No training. No documentation. It just... gets it.
+
+It answers customers in your voice. The first time I saw Hoop draft a response that sounded exactly like something I'd write, I got chills. It wasn't generic AI-speak. It was me.
+
+It keeps you in control. Anything sensitive or complex gets flagged. You stay close to your customers without being buried in repetitive questions.
+
+We built this because we kept hearing the same thing from founders:
+
+"I'm spending 2 hours a day on support emails."
+"I can't afford to hire someone, but I'm drowning."
+"I've looked at Intercom and Zendesk...they're way too complex for what I need."
+
+3.Existing pathways (Anxieties of adoption)- Triggers FLOWS at a concepts/tasks/work 
+Startups deserve the same quality support as enterprise companies. They just need it to be simple, fast, and affordable.
+
+That's Hoop.
+
+Within weeks of shipping, we had design partners telling us this was exactly what they'd been looking for. Founders who were losing sales because they couldn't respond fast enough. Teams of one who needed to feel like teams of ten.
+
+We've already added live chat, Stripe integration for billing questions, and connections to Zendesk and Helpscout. Every week we're shipping something new.
+
+
+4. Possible pathways (Pull of the solution) -  Triggers FLOWS at a concepts/tasks/work 
+
+The pivot was hard. Telling our original customers we were shutting down—that was brutal.
+
+But sometimes you have to let go of what you've built to find what you're meant to build.
+
+And if you've ever pivoted your company and landed somewhere better...I'd love to hear your story in the comments.
+
+
+
+
+
+
+
+
 
